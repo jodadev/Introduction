@@ -1,6 +1,5 @@
-- Hi, I’m JODA 
-- Currently I'm studying ML and DS.  
-- Available for hire soon, working on building an online portfolio here on GitHub
+- Hi, I’m JODA a game dev!
+- Currently I'm working on a huge project, Game Dev coming soon.  
 - 📫 How to reach me: IG/Twitter @jodadev18
 
 <!---
