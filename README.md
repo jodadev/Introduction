@@ -1,5 +1,5 @@
 - Hi, I’m JODA a game dev!
-- Currently I'm working on a huge project, Game Dev coming soon.  
+- Currently I'm accepting freelaning programming jobs.  
 - 📫 How to reach me: IG/Twitter @jodadev18
 
 <!---
