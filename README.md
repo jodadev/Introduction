@@ -1,5 +1,6 @@
-- Hi, I’m JODA a game dev!
-- Currently I'm accepting freelancing programming jobs.  
+- Hi, I’m JODA a full stack programmer!
+- Game | Web | App
+- Currently I'm freelancing with a focus on front end websites.  
 - 📫 How to reach me: IG/Twitter @jodadev18
 
 <!---
